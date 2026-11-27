@@ -7,10 +7,10 @@ import "./Home.css";
 function Home() {
   return (
     <main className="home">
-      <h1>Hetki itsellesi</h1>
+      <h1>Palautumisharjoitukset</h1>
       <p>Ota hetki aikaa palautumiseen.</p>
 
-      <h2>Valitse itsellesi sopiva harjoitus?</h2>
+      <h2>Valitse itsellesi sopiva harjoitus</h2>
 
       <div className="categories">
         <button className="category-card">
